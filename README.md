@@ -28,3 +28,8 @@
 **A filter option in the form of a drop down menu is also available to provide news related to only 1 currency.**
 
 ![image](https://user-images.githubusercontent.com/66728375/172130420-4a73ea5d-647d-469c-92f2-85989e6adca2.png)
+
+
+### Mobile View
+
+![image](https://user-images.githubusercontent.com/66728375/172138594-c4099e64-c300-4bee-8f89-6899baf15bd3.png)
