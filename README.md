@@ -21,9 +21,10 @@
 
 **You can also find the related news**
 
-![image](https://user-images.githubusercontent.com/66728375/172129479-ecfdba4f-c204-4f49-88cf-d1e538f4be9f.png)
+![image](https://user-images.githubusercontent.com/66728375/172130483-0a2cd64e-75f1-4aba-af54-ba77d689fb19.png)
+
 
 
 **A filter option in the form of a drop down menu is also available to provide news related to only 1 currency.**
 
-![image](https://user-images.githubusercontent.com/66728375/172129653-7dee669a-67d5-4112-9e1f-e201c87867b1.png)
+![image](https://user-images.githubusercontent.com/66728375/172130420-4a73ea5d-647d-469c-92f2-85989e6adca2.png)
