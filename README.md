@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/66728375/172129060-b6122820-a89b-4b77-8890-e120e47dcd64.png)
 
-**10 cryptocurrencies are displayed on the homepage. But if you click on the "Show More" button, you'll find more***
+**10 cryptocurrencies are displayed on the homepage. But if you click on the "Show More" button, you'll find more**
 
 ![image](https://user-images.githubusercontent.com/66728375/172129233-ce8bb926-cc75-4981-88a1-f3917d59f1f7.png)
 
